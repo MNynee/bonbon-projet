@@ -1,0 +1,32 @@
+@media(max-width: 900px){
+
+    body{
+        background-image: url('../imagens/20240611-2.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .cabecalho {
+        padding: 30px 0;
+        text-align: center;
+    }
+
+    .cabecalho h1 {
+        padding-left: 0px;
+    }
+
+    .personagens-slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+
+    .lista-personagens{
+        height: 480px;
+    }
+}
